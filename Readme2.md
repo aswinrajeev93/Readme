@@ -7,7 +7,7 @@
 <li><a href="#introduction-to-multi-branch-pipeline">Introduction to Multi Branch pipeline</a></li>
 <li><a href="#pre-requisites">Pre-requisites</a></li>
 <li><a href="#configuration">Configuration</a></li>
-      <li><a href="##Bitbucket configuration">Bitbucket configuration</a></li>
+      <a href="##Bitbucket configuration">Bitbucket configuration</a>
       <li><a href="##Jenkins Configuration">Jenkins Configuration</a></li>
 <li><a href="#process-flow">Process Flow</a></li>
       <li><a href="##CI-CD Process Commit Flow">CI-CD Process Commit Flow</a></li>
