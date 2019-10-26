@@ -1,31 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#multibranch-pipeline-for-application-deployment">Multibranch Pipeline for application deployment</a>
-<ul>
-<li><a href="#table-of-contents">Table of Contents</a></li>
-<li><a href="#introduction-to-multi-branch-pipeline">Introduction to Multi Branch pipeline</a></li>
-<li><a href="#pre-requisites">Pre-requisites</a></li>
-<li><a href="#configuration">Configuration</a></li>
-<li><a href="#process-flow">Process Flow</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="multibranch-pipeline-for-application-deployment">Multibranch Pipeline for application deployment</h1>
